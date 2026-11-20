@@ -32,6 +32,6 @@ Each important action has exactly one place in the code that can do it, so it ca
 
 ## Testing
 
-- 194 browser regression suites (Playwright) covering inventory, purchases, listing, orders, offers, profit and backup.
-- 46 Python test files for the local service and the hosted API.
+- 191 browser regression suites (Playwright) covering inventory, purchases, listing, orders, offers, profit and backup.
+- 54 Python test files for the local service and the hosted API.
 - Automated tests are blocked from reaching live eBay and can never grant publishing consent.

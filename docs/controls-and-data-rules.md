@@ -25,7 +25,7 @@ Card Master is built around a written list of rules that every change must keep.
 ## Security and access
 
 - **No secret reaches the browser.** API credentials live only in the local service, never in browser storage or backups.
-- **Limited outside writes.** Card Master can write to eBay only to publish listings, change a price or answer an offer, and only with my consent. Test and live eBay accounts never cross.
+- **Limited outside writes.** Card Master can write to eBay only to publish or edit a listing, change a price, answer a Best Offer or reply to a buyer message, and only with my consent. Test and live eBay accounts never cross.
 - **Workspace isolation.** In the hosted version, database row-level security keeps each workspace's data separate, and tests prove it.
 - **Approved hosts only.** The system talks only to the outside services it needs. No telemetry.
 

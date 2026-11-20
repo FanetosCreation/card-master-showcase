@@ -2,7 +2,7 @@
 
 **An operations system for a trading-card resale business, with AI agents that recommend and a human who decides.**
 
-I run MtotheZ Collectibles, a Pokémon card business that sells on eBay, Whatnot, TCGplayer and at card shows: 2,000+ orders, 800+ positive eBay reviews and about 800 active inventory items. Each platform keeps its own records, so knowing what I owned, what it cost and what I actually earned meant spreadsheets and guesswork.
+I run MtotheZ Collectibles, a Pokémon card business that sells on eBay, TCGplayer and at card shows (and previously on Whatnot): 2,000+ orders, 800+ positive eBay reviews and about 800 active inventory items. Each platform keeps its own records, so knowing what I owned, what it cost and what I actually earned meant spreadsheets and guesswork.
 
 I designed Card Master to be the business's **system of record**: one place that connects purchases, inventory, listings, sales, fees and profit. It now runs the business on real data every day.
 
@@ -34,7 +34,7 @@ These are the controls I'm proudest of. They keep the numbers trustworthy:
 
 - A sale counts only when a **verified paid order** exists.
 - Money is stored in **whole cents**, and an unknown value **never quietly becomes $0**.
-- **Syncing from eBay never creates inventory or changes anything on eBay.** The only writes are publishing listings, price changes and offer responses, and each one is started or approved by me.
+- **Syncing from eBay never creates inventory or changes anything on eBay.** The only writes are publishing and editing listings, price changes, Best Offer responses and buyer message replies, and each one is started or approved by me.
 - **Deleting a record reverses what it caused but keeps real sales.**
 - **AI recommends; the owner decides.** No agent can change a price, answer an offer or message a buyer on its own.
 - Each significant decision is written down as a **decision record** (21 so far).
