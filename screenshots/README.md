@@ -1,9 +1,10 @@
 # Screenshots
 
-To add: 4–6 screenshots with test or blurred data (no customer names, order numbers or addresses).
+All screenshots use demo data, not real customers or orders.
 
-1. Dashboard
-2. Inventory list
-3. Listing Studio (matching photos and publishing)
-4. eBay orders with fees and profit
-5. A phone screenshot of the agents' daily summary or a tap-to-approve price change
+| File | Shows |
+|---|---|
+| `dashboard.png` | Monthly revenue, card costs, fees, expenses and profit, with trends and profit by marketplace |
+| `ebayorders.png` | eBay sales with actual fees, labels, card cost and profit, plus match checks |
+| `ebayoverview.png` | eBay to-do list and month-to-date results |
+| `inventory.png` | Cards with cost basis, market value and potential gain |

@@ -52,12 +52,24 @@ I wrote the product requirements, data rules and decision records, and used AI c
 | Application code | ~60,000 lines of JavaScript, ~19,000 lines of Python |
 | Automated test suites | 240+ |
 | Decision records | 21 |
-| Marketplaces reconciled | eBay, Whatnot, card shows, direct sales, plus PSA grading |
+| Channels reconciled | eBay, card shows, direct sales and Whatnot (past channel), plus PSA grading |
 | In daily use | Yes, on real business data |
 
 ## Screenshots
 
-See [screenshots](screenshots/README.md).
+*Shown with demo data, not real customers or orders.*
+
+**Dashboard:** revenue, card costs, fees, expenses and profit for the month, with trends and profit by marketplace.
+![Dashboard](screenshots/dashboard.png)
+
+**eBay orders:** every sale with its actual fees, shipping label and card cost, and a check that each sale is matched to an inventory card.
+![eBay orders](screenshots/ebayorders.png)
+
+**eBay today:** what needs attention and how the month is going.
+![eBay today](screenshots/ebayoverview.png)
+
+**Inventory:** each card with its cost basis, market value and potential gain.
+![Inventory](screenshots/inventory.png)
 
 ## About me
 
