@@ -28,6 +28,8 @@ I designed Card Master to be the business's **system of record**: one place that
 
 Details: [Architecture](docs/architecture.md)
 
+**Code samples:** [exact cost splitting, profit math and the price-approval guard](samples/README.md), with runnable tests and notes on why each one exists.
+
 ## Rules the system enforces
 
 These are the controls I'm proudest of. They keep the numbers trustworthy:
