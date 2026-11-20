@@ -2,7 +2,7 @@
 
 **An operations system for a trading-card resale business, with AI agents that recommend and a human who decides.**
 
-I run MtotheZ Collectibles, a Pokémon card business that sells on eBay, TCGplayer and at card shows (and previously on Whatnot): 2,000+ orders, 800+ positive eBay reviews and about 800 active inventory items. Each platform keeps its own records, so knowing what I owned, what it cost and what I actually earned meant spreadsheets and guesswork.
+I run MtotheZCards, a Pokémon card business that sells on eBay, TCGplayer and at card shows (and previously on Whatnot): 2,000+ orders, 800+ positive eBay reviews and about 800 active inventory items. Each platform keeps its own records, so knowing what I owned, what it cost and what I actually earned meant spreadsheets and guesswork.
 
 I designed Card Master to be the business's **system of record**: one place that connects purchases, inventory, listings, sales, fees and profit. It now runs the business on real data every day.
 
